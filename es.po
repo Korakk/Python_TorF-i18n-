@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-23 21:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/Truth.py:28
+msgid "How many legs does a crab have?"
+msgstr "Cuantas patas tiene un cangrejo?"
+
+#: src/Truth.py:30
+msgid "Is John/Jane Doe real?"
+msgstr "És John/Jane Doe real?"
+
+#: src/Truth.py:32
+msgid "Tabs or spaces, how do you indent your code?"
+msgstr "Tabs o espacios, como indentas tu código?"
+
+#: src/Truth.py:34
+msgid "How many pokémons appear on the classic 1st gen pokedex?"
+msgstr "Cuántos pokémons aparecen en la pokédex clásica de 1a gen?"
+
+#: src/Truth.py:36
+msgid "Is chess a recognized sport?"
+msgstr "El ajedrez es un deporte reconozido?"
+
+#: src/Truth.py:40
+msgid "8"
+msgstr "8"
+
+#: src/Truth.py:42
+msgid "no"
+msgstr "no"
+
+#: src/Truth.py:44
+msgid "spaces"
+msgstr "espacios"
+
+#: src/Truth.py:46
+msgid "151"
+msgstr "151"
+
+#: src/Truth.py:48
+msgid "yes"
+msgstr "si"
+
+#: src/Truth.py:56
+msgid "Question number"
+msgstr "Pregunta número"
+
+#: src/Truth.py:61
+msgid "Your answer is correct!"
+msgstr "Tu respuesta es correcta!"
+
+#: src/Truth.py:63
+msgid "You failed. Restart the game and try again! See you later."
+msgstr "Has fallado. No te rindas, reinicia el juego y intentalo otra vez! Nos vemos."
+
+#: src/Truth.py:70
+msgid "Hi, what's your username?"
+msgstr "Hola, cuál es tu usuario?"
+
+#: src/Truth.py:71
+msgid "Hello "
+msgstr "Hola "
+
+#: src/Truth.py:72
+msgid "Do you want to start playing the game? (y/n)"
+msgstr "Vamos a jugar a un juego? (y(si)/n(no))"
+
+#: src/Truth.py:74
+msgid "Please input y(yes) or n(no)! Come on is not that hard [y/n]"
+msgstr "Haz el favor de escribir y(si) o n(no)! No es tant difícil máquina [y(si)/n(no)]"
+
+#: src/Truth.py:76
+msgid "Answer correctly 5/5 questions to WIN!"
+msgstr "Responde correctamente 5/5 preguntas i VICTORIA!"
+
+#: src/Truth.py:77
+msgid "Answer questions in one word, let's begin"
+msgstr "Responde las preguntas en una palabra, empecemos"
+
+#: src/Truth.py:97
+msgid "You WIN!"
+msgstr "VICTORIA"
